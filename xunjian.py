@@ -2,7 +2,6 @@
 import logging;
 import os;
 import time;
-from config import DB,html;
 from selenium.webdriver.support.ui import Select
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
